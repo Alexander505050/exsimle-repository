@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MyFirstApp</string>
+    <string name="app_name" translatable="false">ALEXANDER SERGEEV</string>
+    <string name="GOOD">GOOD!</string>
+    <string name="Bye_Bye">Bye</string>
+    <string name="button">ENTRANCE</string>
+    <string name="reviews">Reviews</string>
+    <string name="help">HELP</string>
 </resources>
